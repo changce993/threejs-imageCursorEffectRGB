@@ -1,0 +1,19 @@
+{
+  "name": "3dcursor",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^3.0.7"
+  },
+  "dependencies": {
+    "gsap": "^3.10.4",
+    "sass": "^1.54.4",
+    "three": "^0.143.0"
+  }
+}
